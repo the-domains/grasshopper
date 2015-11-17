@@ -1,7 +1,7 @@
 name: Grasshopper
 favicon: null
-layout_spectrum: 0.9029027752112597
-typography_spectrum: 0.009084317600354552
+layout_spectrum: 0.92217
+typography_spectrum: 0.221
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#c7c7c7'
     - '#5f5f5f'
   brandStrength: 0.375
-  lightness: 0.8401045964565128
-  saturation: 0.3726075382437557
-  rhythmicContrast: 0.6080524262506515
+  lightness: 0.875
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
