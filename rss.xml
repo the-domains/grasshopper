@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Grasshopper]]></title>
         <description><![CDATA[Grasshopper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grasshopper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 22:57:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 01:23:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grasshopper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grasshopper Enterprises | Renting Cryogenic Transports to the Industrial Gases and Energy Services Markets]]></title>
+            <description><![CDATA[<article><h1>Grasshopper Enterprises | Renting Cryogenic Transports to the Industrial Gases and Energy Services Markets</h1><img src="http://www.grasshopperenterprises.com/wp-content/uploads/2014/12/ef71c36a-b715-4ee1-84d7-2a3a336ade41-1024x768.jpg"></article>]]></description>
+            <link>http://www.grasshopperenterprises.com/</link>
+            <guid isPermaLink="false">923cfc3a-e58c-4347-8edf-b07d020e3b10</guid>
+            <pubDate>Wed, 18 Nov 2015 01:23:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.grasshopperenterprises.com/wp-content/uploads/2015/07/ge_logo2.jpg">]]></description>
-            <link>undefinedd1fbe6a1-b8b8-4f8a-8d73-6474affabfe6/index.html</link>
+            <link>https://thegrid.ai/grasshopper/d1fbe6a1-b8b8-4f8a-8d73-6474affabfe6/index.html</link>
             <guid isPermaLink="false">d1fbe6a1-b8b8-4f8a-8d73-6474affabfe6</guid>
             <pubDate>Tue, 17 Nov 2015 22:57:13 GMT</pubDate>
         </item>
