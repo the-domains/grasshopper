@@ -4,23 +4,24 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.grasshopperenterprises.com/'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T22:10:53.270Z'
-dateModified: '2016-03-07T22:10:27.802Z'
-author: []
+datePublished: '2016-08-31T19:08:01.838Z'
+dateModified: '2016-08-31T19:08:01.526Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
-title: Renting Cryogenic Transports to the Industrial Gases and Energy Services Markets
+title: ''
 authors: []
 publisher:
-  name: Grasshopperenterprises
-  domain: www.grasshopperenterprises.com
-  url: 'http://www.grasshopperenterprises.com'
-  favicon: 'http://www.grasshopperenterprises.com/wp-content/uploads/2014/12/ge_logo-e1437129093214-150x150.jpg'
-sourcePath: _posts/2016-03-07-renting-cryogenic-transports-to-the-industrial-gases-and-ene.md
-published: true
+  name: ''
+  url: ''
+sourcePath: >-
+  _posts/2016-03-07-renting-cryogenic-transports-to-the-industrial-gases-and-ene.md
+via: {}
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
