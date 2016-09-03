@@ -1,29 +1,27 @@
 ---
+datePublished: '2016-08-31T19:24:09.984Z'
+sourcePath: >-
+  _posts/2016-03-07-renting-cryogenic-transports-to-the-industrial-gases-and-ene.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'http://www.grasshopperenterprises.com/'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-08-31T19:08:01.838Z'
-dateModified: '2016-08-31T19:08:01.526Z'
+related: []
 author:
   - name: ''
     url: ''
-related: []
-app_links: []
-title: ''
-authors: []
-publisher:
-  name: ''
-  url: ''
-sourcePath: >-
-  _posts/2016-03-07-renting-cryogenic-transports-to-the-industrial-gases-and-ene.md
 via: {}
+dateModified: '2016-08-31T19:24:09.129Z'
+title: Transports Available Immediately for Lease
+app_links: []
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57032b6c-4470-4563-9b54-d647755b9f85.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddcd76c2606ed49dc7cec89e5cf93225af02b426.jpg)
